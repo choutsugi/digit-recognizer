@@ -2,9 +2,9 @@
 
 ## What's this?
 
-这是一个Python实现的简易的手写数字识别器（玩具项目），你可以通过鼠标或触摸板书写数字然后点击识别按钮进行识别，效果如下：
+This is a simple handwritten number recognizer (toy project) implemented in Python. You can write numbers with a mouse or touchpad and then click the recognize button to recognize them. The effect is as follows:
 
-![手写数字2019识别效果](./tmp/2019.png)
+![example](./tmp/2019.png)
 
 ## How to use?
 ### Install python
