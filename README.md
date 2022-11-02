@@ -14,7 +14,7 @@ Enter the project root directory and execute:
 ```bash
 pip install -r requirement.txt
 ```
-### Run and emjoy it
+### Run and enjoy it
 ```bash
 python ./main.py
 ```
