@@ -1,4 +1,4 @@
-# digit-recognizer
+# handwritten-number-recognizer
 
 ## What's this?
 
