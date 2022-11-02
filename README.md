@@ -2,7 +2,7 @@
 
 ## What's this?
 
-This is a simple handwritten number recognizer (toy project) implemented in Python. You can write numbers with a mouse or touchpad and then click the recognize button to recognize them. The effect is as follows:
+This is a simple handwritten number recognizer (toy project) implemented in Python. You can write numbers with a mouse or touchpad and then click the recognize button to recognize them. The example is as follows:
 
 ![example](./tmp/2019.png)
 
