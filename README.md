@@ -4,7 +4,7 @@
 
 This is a simple handwritten number recognizer (toy project) implemented in Python. You can write numbers with a mouse or touchpad and then click the recognize button to recognize them. The example is as follows:
 
-![example](./tmp/2019.png)
+![example](./tmp/2048.png)
 
 ## How to use?
 ### Install python
